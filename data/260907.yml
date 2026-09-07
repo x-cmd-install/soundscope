@@ -1,0 +1,139 @@
+about:
+  description: "A TUI app for analyzing audio data such as frequencies and loudness (LUFS)"
+  license: MIT
+  homepage: 
+  head: bc70121
+  archived: false
+  latestVersion: "v1.9.2"
+  collectedAt: 2026-09-07T04:52:25Z
+timeline:
+  created: 2025-08-06
+  lastCommit: 2026-09-06
+  lastRelease: 2026-06-11
+popularity:
+  star: 185
+  watcher: 3
+  fork: 4
+  release: 17
+  contributor: 1
+  pullRequest: 63
+  issue: 9
+language:
+  Rust: 146492
+totalBytes: 146492
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 0
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 19
+  last60d:
+    since: 2026-07-09
+    release: 0
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 19
+  last90d:
+    since: 2026-06-09
+    release: 1
+    mergedPR: 6
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 19
+  last180d:
+    since: 2026-03-11
+    release: 3
+    mergedPR: 11
+    openPR: 1
+    closedIssue: 1
+    openIssue: 0
+    commit: 29
+  last360d:
+    since: 2025-09-12
+    release: 12
+    mergedPR: 42
+    openPR: 1
+    closedIssue: 9
+    openIssue: 0
+    commit: 86
+  last720d:
+    since: 2024-09-17
+    release: 17
+    mergedPR: 62
+    openPR: 1
+    closedIssue: 9
+    openIssue: 0
+    commit: 232
+total:
+  release: 17
+  mergedPR: 62
+  openPR: 1
+  closedIssue: 9
+  openIssue: 0
+  commit: 232
+---
+path: /home/runner/.x-repo/github.com/bananaofhappiness/soundscope
+collectedAt: 2026-09-07T04:52:29Z
+loc:
+  Rust:
+    code: 3263
+    comments: 235
+    blanks: 424
+    files: 12
+  Toml:
+    code: 47
+    comments: 8
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 259
+    blanks: 95
+    files: 2
+total:
+  code: 3362
+  comments: 617
+  blanks: 534
+  files: 15
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:52:30+00:00
+  platform:
+    darwin/arm64:
+      name:  soundscope-macOS-arm64.tar.gz
+      url:   https://github.com/bananaofhappiness/soundscope/releases/download/v1.9.2/soundscope-macOS-arm64.tar.gz
+      size:  1235240
+      score: 45
+    darwin/amd64:
+      name:  soundscope-macOS-x86_64.tar.gz
+      url:   https://github.com/bananaofhappiness/soundscope/releases/download/v1.9.2/soundscope-macOS-x86_64.tar.gz
+      size:  1318091
+      score: 45
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  soundscope-Linux-gnu-x86_64.tar.gz
+      url:   https://github.com/bananaofhappiness/soundscope/releases/download/v1.9.2/soundscope-Linux-gnu-x86_64.tar.gz
+      size:  1369702
+      score: 45
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  soundscope-Windows-gnu-x86_64.zip
+      url:   https://github.com/bananaofhappiness/soundscope/releases/download/v1.9.2/soundscope-Windows-gnu-x86_64.zip
+      size:  1271501
+      score: 45
