@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1365840,
       "digest": "sha256:7d82c860b65328e72ec1211ce0f4c625be6ea058b1658377be8acb9c09f65450",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-07T11:31:36Z",
       "updated_at": "2026-09-07T11:31:36Z",
       "browser_download_url": "https://github.com/bananaofhappiness/soundscope/releases/download/v1.10.1/soundscope-Linux-gnu-x86_64.tar.gz"
