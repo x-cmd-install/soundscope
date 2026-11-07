@@ -14,13 +14,13 @@ x install soundscope
 
 ## Code insight
 
-Total: **3,366** lines of code across **15** files in the top 5 languages.
+Total: **3,737** lines of code across **16** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 3,319 | 246 | 434 | 12 |
-| Toml | 47 | 8 | 6 | 1 |
-| Markdown | 0 | 271 | 100 | 2 |
+| Rust | 3,684 | 317 | 474 | 13 |
+| Toml | 53 | 8 | 8 | 1 |
+| Markdown | 0 | 306 | 111 | 2 |
 
 ## Source
 
@@ -29,43 +29,43 @@ Total: **3,366** lines of code across **15** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.10.1` (2026-09-07)
-- **Last commit**: 2026-09-07
+- **Latest**: `v1.11.0` (2026-11-06)
+- **Last commit**: 2026-11-06
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 187 · **Forks**: 5 · **Open issues**: 9 · **Contributors**: 1
+- **Stars**: 188 · **Forks**: 5 · **Open issues**: 9 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 68 · **Open PRs**: 0 · **Closed issues**: 9 · **Open issues**: 0 · **Commits**: 241
+- **Releases**: 20 · **Merged PRs**: 73 · **Open PRs**: 0 · **Closed issues**: 9 · **Open issues**: 0 · **Commits**: 256
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-08 | 2 | 11 | 0 | 0 | 0 | 22 |
-| last180d | 2026-05-10 | 3 | 12 | 0 | 0 | 0 | 26 |
-| 360d | 2025-11-11 | 10 | 36 | 0 | 7 | 0 | 67 |
-| last720d | 2024-11-16 | 19 | 68 | 0 | 9 | 0 | 241 |
+| 30d | 2026-10-08 | 1 | 5 | 0 | 0 | 0 | 8 |
+| last60d | 2026-09-08 | 1 | 5 | 0 | 0 | 0 | 10 |
+| 90d | 2026-08-09 | 3 | 16 | 0 | 0 | 0 | 32 |
+| last180d | 2026-05-11 | 4 | 17 | 0 | 0 | 0 | 36 |
+| 360d | 2025-11-12 | 11 | 41 | 0 | 7 | 0 | 77 |
+| last720d | 2024-11-17 | 20 | 73 | 0 | 9 | 0 | 256 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [soundscope-Linux-gnu-arm64.tar.gz](https://github.com/bananaofhappiness/soundscope/releases/download/v1.10.1/soundscope-Linux-gnu-arm64.tar.gz) | 1.2 MiB | `native/linux/arm64/glibc` |
-| [soundscope-Linux-gnu-arm64.tar.gz.sha256](https://github.com/bananaofhappiness/soundscope/releases/download/v1.10.1/soundscope-Linux-gnu-arm64.tar.gz.sha256) | 100 B | `native/linux/arm64/glibc` |
-| [soundscope-Linux-gnu-x86_64.tar.gz](https://github.com/bananaofhappiness/soundscope/releases/download/v1.10.1/soundscope-Linux-gnu-x86_64.tar.gz) | 1.3 MiB | `native/linux/x64/glibc` |
-| [soundscope-Linux-gnu-x86_64.tar.gz.sha256](https://github.com/bananaofhappiness/soundscope/releases/download/v1.10.1/soundscope-Linux-gnu-x86_64.tar.gz.sha256) | 101 B | `native/linux/x64/glibc` |
-| [soundscope-macOS-arm64.tar.gz](https://github.com/bananaofhappiness/soundscope/releases/download/v1.10.1/soundscope-macOS-arm64.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
-| [soundscope-macOS-arm64.tar.gz.sha256](https://github.com/bananaofhappiness/soundscope/releases/download/v1.10.1/soundscope-macOS-arm64.tar.gz.sha256) | 96 B | `native/darwin/arm64` |
-| [soundscope-macOS-x86_64.tar.gz](https://github.com/bananaofhappiness/soundscope/releases/download/v1.10.1/soundscope-macOS-x86_64.tar.gz) | 1.3 MiB | `native/darwin/x64` |
-| [soundscope-macOS-x86_64.tar.gz.sha256](https://github.com/bananaofhappiness/soundscope/releases/download/v1.10.1/soundscope-macOS-x86_64.tar.gz.sha256) | 97 B | `native/darwin/x64` |
-| [soundscope-Windows-gnu-x86_64.zip](https://github.com/bananaofhappiness/soundscope/releases/download/v1.10.1/soundscope-Windows-gnu-x86_64.zip) | 1.2 MiB | `native/win/x64` |
-| [soundscope-Windows-gnu-x86_64.zip.sha256](https://github.com/bananaofhappiness/soundscope/releases/download/v1.10.1/soundscope-Windows-gnu-x86_64.zip.sha256) | 100 B | `native/win/x64` |
+| [soundscope-Linux-gnu-arm64.tar.gz](https://github.com/bananaofhappiness/soundscope/releases/download/v1.11.0/soundscope-Linux-gnu-arm64.tar.gz) | 1.2 MiB | `native/linux/arm64/glibc` |
+| [soundscope-Linux-gnu-arm64.tar.gz.sha256](https://github.com/bananaofhappiness/soundscope/releases/download/v1.11.0/soundscope-Linux-gnu-arm64.tar.gz.sha256) | 100 B | `native/linux/arm64/glibc` |
+| [soundscope-Linux-gnu-x86_64.tar.gz](https://github.com/bananaofhappiness/soundscope/releases/download/v1.11.0/soundscope-Linux-gnu-x86_64.tar.gz) | 1.3 MiB | `native/linux/x64/glibc` |
+| [soundscope-Linux-gnu-x86_64.tar.gz.sha256](https://github.com/bananaofhappiness/soundscope/releases/download/v1.11.0/soundscope-Linux-gnu-x86_64.tar.gz.sha256) | 101 B | `native/linux/x64/glibc` |
+| [soundscope-macOS-arm64.tar.gz](https://github.com/bananaofhappiness/soundscope/releases/download/v1.11.0/soundscope-macOS-arm64.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [soundscope-macOS-arm64.tar.gz.sha256](https://github.com/bananaofhappiness/soundscope/releases/download/v1.11.0/soundscope-macOS-arm64.tar.gz.sha256) | 96 B | `native/darwin/arm64` |
+| [soundscope-macOS-x86_64.tar.gz](https://github.com/bananaofhappiness/soundscope/releases/download/v1.11.0/soundscope-macOS-x86_64.tar.gz) | 1.3 MiB | `native/darwin/x64` |
+| [soundscope-macOS-x86_64.tar.gz.sha256](https://github.com/bananaofhappiness/soundscope/releases/download/v1.11.0/soundscope-macOS-x86_64.tar.gz.sha256) | 97 B | `native/darwin/x64` |
+| [soundscope-Windows-gnu-x86_64.zip](https://github.com/bananaofhappiness/soundscope/releases/download/v1.11.0/soundscope-Windows-gnu-x86_64.zip) | 1.2 MiB | `native/win/x64` |
+| [soundscope-Windows-gnu-x86_64.zip.sha256](https://github.com/bananaofhappiness/soundscope/releases/download/v1.11.0/soundscope-Windows-gnu-x86_64.zip.sha256) | 100 B | `native/win/x64` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for soundscope lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:58:18Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:14:50Z._
