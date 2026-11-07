@@ -1,11 +1,11 @@
-- repo: arch
+- repo: manjaro_testing
   subrepo: extra
   srcname: soundscope
   binname: soundscope
   visiblename: soundscope
   version: 1.10.1
   origversion: 1.10.1-1
-  status: unique
+  status: outdated
   summary: A TUI app for analyzing audio data such as frequencies and loudness
   licenses:
     - MIT
@@ -16,7 +16,7 @@
   visiblename: soundscope
   version: 1.10.1
   origversion: 1.10.1-1
-  status: unique
+  status: outdated
   summary: A TUI app for analyzing audio data such as frequencies and loudness
   licenses:
     - MIT
@@ -25,8 +25,30 @@
   srcname: soundscope
   binname: soundscope
   visiblename: soundscope
-  version: 1.10.1
-  origversion: 1.10.1-1
+  version: 1.11.0
+  origversion: 1.11.0-1
+  status: unique
+  summary: A TUI app for analyzing audio data such as frequencies and loudness
+  licenses:
+    - MIT
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: soundscope
+  binname: soundscope
+  visiblename: soundscope
+  version: 1.10.0
+  origversion: 1.10.0-1
+  status: outdated
+  summary: A TUI app for analyzing audio data such as frequencies and loudness
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: soundscope
+  binname: soundscope
+  visiblename: soundscope
+  version: 1.11.0
+  origversion: 1.11.0-1
   status: unique
   summary: A TUI app for analyzing audio data such as frequencies and loudness
   licenses:
