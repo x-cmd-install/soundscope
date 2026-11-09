@@ -25,9 +25,9 @@
   srcname: soundscope
   binname: soundscope
   visiblename: soundscope
-  version: 1.10.1
-  origversion: 1.10.1-1
-  status: outdated
+  version: 1.11.0
+  origversion: 1.11.0-1
+  status: unique
   summary: A TUI app for analyzing audio data such as frequencies and loudness
   licenses:
     - MIT
