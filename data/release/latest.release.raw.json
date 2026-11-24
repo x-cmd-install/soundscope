@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1301611,
       "digest": "sha256:5c03a5572b6983748ff8d4fca0dc988b62988c6d48e9e369d3f28bb4e11a54a7",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-06T20:18:21Z",
       "updated_at": "2026-11-06T20:18:21Z",
       "browser_download_url": "https://github.com/bananaofhappiness/soundscope/releases/download/v1.11.0/soundscope-Linux-gnu-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1366417,
       "digest": "sha256:ceffcaf600574df0603304f3b86c19eea5c22679c05c30ea6d5a396bb6f6ef82",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-11-06T20:18:33Z",
       "updated_at": "2026-11-06T20:18:34Z",
       "browser_download_url": "https://github.com/bananaofhappiness/soundscope/releases/download/v1.11.0/soundscope-Linux-gnu-x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1252652,
       "digest": "sha256:e68364818e419356b0695640abb068daabc36570f1638713151650a1d3f414f3",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-11-06T20:26:48Z",
       "updated_at": "2026-11-06T20:26:49Z",
       "browser_download_url": "https://github.com/bananaofhappiness/soundscope/releases/download/v1.11.0/soundscope-macOS-arm64.tar.gz"
